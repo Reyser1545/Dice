@@ -1,0 +1,33 @@
+
+body{
+    text-align: center;
+    background-color: aliceblue;
+    
+}
+  button {
+    background-color: rgb(82, 101, 186);
+    border-radius: 50px;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    width: 400px;
+    height: 50px;
+    font-size: 25px;
+    padding-bottom: 50px;
+    justify-content: center;
+    margin-bottom: 10px;
+
+  }
+  p>img{
+    margin: 15;
+    height: 120px;
+    display: inline-flex;
+    border-color: black;
+    border:solid;
+    background-color: aquamarine;
+  }
+  div{
+    background-color:antiquewhite;
+    border-color: black;
+    border:solid;
+
+  }
